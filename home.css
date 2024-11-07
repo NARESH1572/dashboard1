@@ -1,0 +1,27 @@
+left1{
+    margin-top: 60px;
+    background-color:whitesmoke;
+    width: 100vw;
+    height: 80vh;
+}
+h2{
+    text-align: center;
+    background-color: gray;
+}
+.p1{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.p2{
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+
+}
+
+h4{
+    background-color: antiquewhite;
+
+}
